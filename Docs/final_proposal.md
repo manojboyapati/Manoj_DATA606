@@ -21,3 +21,5 @@ Columns
 Note: "Unknown" in smoking_status means that the information is unavailable for this patient.
 ## Developing Model
 My plan is to use Logistic regression and Random tree classifier as first classification models and choose next models based on results.  I will try to implement and explain different models and find the accuracy to determine the best model.I will try at least two more other classifiers. My main objective of my project is to identify common risk factor of stroke.
+## Results
+By analyzing datasets of patient information, by developing predictive models to identify individuals who are at increased risk of stroke. This information can be used to develop targeted prevention strategies and to improve early detection and treatment of stroke.
